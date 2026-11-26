@@ -1,5 +1,7 @@
 # Looped MoEを図とコードで読む
 
+[English version](README.en.md)
+
 小さな言語モデルを作る実験で使った構成です。**中央のブロックを繰り返す Looped Transformer** と、**トークンごとに処理先を選ぶ Mixture of Experts（MoE）** を組み合わせています。
 
 ## 1. 同じ4層を2周する
